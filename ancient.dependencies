@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "ancient-devices/android_kernel_xiaomi_sm8350",
+    "target_path": "kernel/xiaomi/sm8350"
+    "branch": "13"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+    "branch": "lineage-20"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_vendor_qcom_opensource_healthd-ext",
+    "target_path": "vendor/qcom/opensource/healthd-ext"
+    "branch": "lineage-20"
+  }
+]
